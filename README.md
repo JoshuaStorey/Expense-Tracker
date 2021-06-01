@@ -1,4 +1,4 @@
 # Expense-Tracker
 
 
-Expense tracker built with Reactjs.
+Expense tracker built with React.
